@@ -1,6 +1,6 @@
 My passion is using engineering to improve people’s lives, and giving people the tools they need to do the same.
 
-Currently, I'm the head of electrical engineering at [Shaper](http://shapertools.com), where we're using computer vision to reinvent the way people use handheld power tools. Prior to joining Shaper, I was a lead electrical architect for confidential products at [Google [x]](http://www.jeremyblum.com/2013/08/11/whats-next/), including [Google Glass](https://en.wikipedia.org/wiki/Google_Glass).
+Currently, I'm the Director of Hardware at [Shaper](http://shapertools.com), where we're using computer vision to reinvent the way people use handheld power tools. I'm responsible for electrical architecture, electrical design, manufacturing, testing, and more at Shaper. Prior to joining Shaper, I was a lead electrical architect for confidential products at [Google [x]](http://www.jeremyblum.com/2013/08/11/whats-next/), including [Google Glass](https://en.wikipedia.org/wiki/Google_Glass).
 
 I received my Master’s and Bachelor’s degrees in Electrical and Computer Engineering [from Cornell University](http://www.jeremyblum.com/2013/08/10/looking-back/). At Cornell, I co-founded and led [Cornell University Sustainable Design](http://cusd.cornell.edu), I launched a first-of-its-kind [entrepreneurial co-working space](http://www.jeremyblum.com/portfolio/popshop/) for students, and I conducted robotics and machine learning research.
  
